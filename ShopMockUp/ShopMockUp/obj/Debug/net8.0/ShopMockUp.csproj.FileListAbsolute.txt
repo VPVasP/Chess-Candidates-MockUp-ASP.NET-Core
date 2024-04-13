@@ -1,0 +1,9 @@
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.RazorAssemblyInfo.cache
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.RazorAssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ShopMockUpGitHub\Shop-Mock-Up-ASP.NET-Core\ShopMockUp\ShopMockUp\obj\Debug\net8.0\ShopMockUp.sourcelink.json
