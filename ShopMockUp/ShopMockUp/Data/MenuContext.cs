@@ -23,7 +23,7 @@ namespace ShopMockUp.Data
         }
 
         public DbSet<Player> Players { get; set; }
-        public DbSet<Item> Ingredients { get; set; }
-        public DbSet<Items> DishIngredients { get; set; }
+        public DbSet<Item> Item { get; set; }
+        public DbSet<Items> Items { get; set; }
     }
 }
