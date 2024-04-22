@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMockUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08add1cacd9bba9f8373e1cf0924d4b65b4d6f5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0177ffcea642a20e8f0d7ca6614e411daf238d7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMockUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMockUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

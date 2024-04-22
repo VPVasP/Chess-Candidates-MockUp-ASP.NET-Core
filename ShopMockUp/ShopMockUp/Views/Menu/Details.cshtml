@@ -1,0 +1,40 @@
+﻿@model ShopMockUp.Models.Player
+@{
+    ViewData["Title"] = "Details";
+}
+<style>
+    body {
+        background-color: black;
+    }
+
+    h3 {
+        color: gold;
+    }
+
+    h4, .btn-info {
+        color: black;
+        background-color: gold;
+    }
+</style>
+<div class="container">
+    <div class="d-flex justify-content-center">
+        <h3>@Model.Name</h3>
+    </div>
+    <div class="d-flex justify-content-center">
+        <img src="@Model.ImageUrl" style="width: 50%" />
+    </div>
+    <div class="d-flex justify-content-center">
+    </div>
+    <div class="d-flex justify-content-center">
+        <h3> Info:</h3>
+        <ul>
+            @foreach(var item in Model.items)
+            {
+                <li>
+                    <h3> @item.item.Name</h3>
+                </li>
+            }
+        </ul>
+    </div>
+    <a class="btn btn-info" asp-action="Index">Return</a>
+</div>

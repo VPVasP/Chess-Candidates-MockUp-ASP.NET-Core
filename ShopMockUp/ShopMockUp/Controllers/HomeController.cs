@@ -18,7 +18,7 @@ namespace ShopMockUp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Vpvasp()
         {
             return View();
         }

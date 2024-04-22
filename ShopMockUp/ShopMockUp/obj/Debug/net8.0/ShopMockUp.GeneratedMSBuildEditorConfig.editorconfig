@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vasil/Desktop/C\#/ShopMockUpGitHub/Shop-Mock-Up-ASP.NET-Core/ShopMockUp/ShopMockUp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/vasil/Desktop/C\#/ShopMockUpGitHub/Shop-Mock-Up-ASP.NET-Core/ShopMockUp/ShopMockUp/Views/Home/Vpvasp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWcHZhc3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vasil/Desktop/C\#/ShopMockUpGitHub/Shop-Mock-Up-ASP.NET-Core/ShopMockUp/ShopMockUp/Views/Menu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vasil/Desktop/C\#/ShopMockUpGitHub/Shop-Mock-Up-ASP.NET-Core/ShopMockUp/ShopMockUp/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vasil/Desktop/C\#/ShopMockUpGitHub/Shop-Mock-Up-ASP.NET-Core/ShopMockUp/ShopMockUp/Views/Shared/Error.cshtml]

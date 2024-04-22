@@ -1,4 +1,4 @@
-namespace ShopMockUp.Models
+﻿namespace ShopMockUp.Models
 {
     public class ErrorViewModel
     {
@@ -7,3 +7,4 @@ namespace ShopMockUp.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+    

@@ -3,16 +3,26 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - ShopMockUp</title>
+    <title>@ViewData["Title"] - FIDE CANDIDATES 2024 MOCKUP BY VP</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ShopMockUp.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-color: black;
+            color: gold;
+        }
+  
+        .bg-gold {
+            background-color: gold 
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-gold border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ShopMockUp</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Menu" asp-action="Index">FIDE CANDIDATES 2024 MOCKUP BY VP</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,10 +30,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Menu" asp-action="Index">Players</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Vpvasp">VPVASP</a>
                         </li>
                     </ul>
                 </div>
@@ -36,9 +46,9 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted bg-gold">
         <div class="container">
-            &copy; 2024 - ShopMockUp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2024 -FIDE CANDIDATES 2024 MOCKUP BY VP - <a asp-area="" asp-controller="Home" asp-action="Vpvasp" style="color: black;">VPVASP</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
