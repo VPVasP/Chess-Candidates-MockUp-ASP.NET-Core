@@ -1,2 +1,8 @@
 # Candidates Mockup-ASP.NET-Core
-The Candidates Mockup is a C# ASP.NET Core Project that displays the Fide Candidates Particians Info just like the official Site. It's made in ASP.NET Core and the Data and information are being stored in a SQL Database.
+Created an ASP.NET Core project to display FIDE Candidates profiles.Integrated SQL Database for storing player information.
+- ASP.NET Core, SQL, C#
+
+## How to Install
+1. Clone this GitHub Repository to your computer.
+2. Open the Project .sln file in Visual Studio and run it.
+
