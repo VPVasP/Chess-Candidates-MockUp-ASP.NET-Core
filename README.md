@@ -1,5 +1,6 @@
 # Candidates Mockup-ASP.NET-Core
 Created an ASP.NET Core project to display FIDE Candidates profiles.Integrated SQL Database for storing player information.
+## Technologies Used:
 - ASP.NET Core, SQL, C#
 
 ## How to Install
